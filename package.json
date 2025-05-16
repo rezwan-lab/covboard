@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "papaparse": "^5.5.2",
+    "recharts": "^2.15.3"
+  }
+}
