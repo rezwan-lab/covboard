@@ -19,7 +19,7 @@ CovBoard includes:
 1. Clone the repository
 
 ```
-git clone [https://github.com/rezwan-lab/covboard](https://github.com/rezwan-lab/covboard.git)
+git clone https://github.com/rezwan-lab/covboard.git
 
 cd covboard
 
